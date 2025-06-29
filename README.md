@@ -45,6 +45,7 @@ assets/ – Folder for images, logos, and icons used in the UI
 ![Screenshot (506)](https://github.com/user-attachments/assets/ddccb097-c716-4cc2-90e2-ad5ec0a42259)
 ![Screenshot (507)](https://github.com/user-attachments/assets/b702a2d6-224b-4d72-88d9-dda1b97b6251)
 ![Screenshot (508)](https://github.com/user-attachments/assets/fa81c9e9-4dd4-4d2e-b3b0-78294a1625a6)
+
 ![Screenshot (509)](https://github.com/user-attachments/assets/2d7e77cc-11b9-4175-89c5-1ec37b510e45)
 
 
