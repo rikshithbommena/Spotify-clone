@@ -14,10 +14,6 @@ CSS3 – for styling and layout design
 
 (No JavaScript used — purely static)
 
-## 📂 Project Structure
-php
-Copy
-Edit
 
 ## 📁 spotify-clone/
 ├── index.html
